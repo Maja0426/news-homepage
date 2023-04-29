@@ -266,7 +266,7 @@ h1 {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1024px) {
   body {
     width: 94%;
     margin: 5% 3%;
